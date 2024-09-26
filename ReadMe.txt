@@ -77,16 +77,3 @@ The neural network used is a Convolutional Neural Network (CNN) with the followi
 - **Fully Connected Layer**: For classification into disease categories.
 - **Output Layer**: Uses softmax activation for multi-class classification.
 
-## Results
-
-The model achieves an overall accuracy of **X%** on the test set. Below are the key performance metrics:
-- **Precision**: X%
-- **Recall**: X%
-- **F1-Score**: X%
-
-## Future Work
-
-- Expand the dataset to include more foliar diseases.
-- Improve accuracy with more complex models like ResNet or EfficientNet.
-- Deploy the app to cloud platforms for real-world usage.
-
